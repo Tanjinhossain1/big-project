@@ -42,10 +42,26 @@ section{
 .no{
     width: 50%;
     padding-left: 10%;
-    box-shadow: 15px 10px 40px black;
+    box-shadow: 15px 10px 40px rgb(16, 12, 248);
     width: 50%;
-    margin-left: 100px;
-    margin-right: 200px;
+    margin-left: 200px;
+    margin-right: 100px;
     padding: 80px;
+    border-radius: 60px;
+    border-left: 10px solid blue;
+    border-right: 10px solid blue;
     
+}
+.gon{
+    background-image: url(image/Untitled.j[g.png);
+    background-repeat: no-repeat;
+}
+#sun{
+    border-image: linear-gradient(blue,orange);
+    border-image-slice: 1;
+    border-left: 7px solid;
+    border-radius: 8px;
+}
+footer p{
+    text-align: center;
 }
