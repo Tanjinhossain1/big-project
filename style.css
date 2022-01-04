@@ -2,6 +2,7 @@ body{
     font-family: 'Bebas Neue', cursive;
 font-family: 'Open Sans', sans-serif;
 margin: 0;
+
 }
 h1{
     font-size: 50px;
@@ -11,6 +12,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom:150px;
 }
 .first{
     width: 50%;
@@ -29,4 +31,8 @@ section{
 }
 .most{
     background-image: url(image/tuku.png);
+}
+.wow{
+    background-image: url(image/hu.jpg);
+    background-position: right;
 }
