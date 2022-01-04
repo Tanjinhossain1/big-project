@@ -1,5 +1,7 @@
 body{
     font-family: 'Bebas Neue', cursive;
+font-family: 'Open Sans', sans-serif;
+margin: 0;
 }
 h1{
     font-size: 50px;
@@ -24,4 +26,7 @@ section{
     padding:10px 40px;
     font-weight: 700;
     background-image: linear-gradient(rgba(43, 29, 235, 0.089),rgba(255, 0, 0, 0.89));
+}
+.most{
+    background-image: url(image/tuku.png);
 }
