@@ -7,3 +7,21 @@ h1{
 .one{
     color: orange;
 }
+section{
+    display: flex;
+}
+.first{
+    width: 50%;
+    padding-left: 10%;
+}
+.first img{
+    width: 80%;
+
+}
+.two{
+    text-decoration: none;
+    border-radius: 3px;
+    padding:10px 40px;
+    font-weight: 700;
+    background-image: linear-gradient(rgba(43, 29, 235, 0.089),rgba(255, 0, 0, 0.89));
+}
